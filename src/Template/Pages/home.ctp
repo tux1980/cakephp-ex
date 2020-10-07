@@ -11,7 +11,7 @@
                 </p>
 
 <ol>
-  <li>From Web Console homepage, navigate to your project Wolli! - VV2222 - !!!</li>
+  <li> Fujitsu!!! Hi guys, thank you!</li>
   <li>Click on Browse &gt; Builds</li>
   <li>Click the link with your BuildConfig name</li>
   <li>Click the Configuration tab</li>
